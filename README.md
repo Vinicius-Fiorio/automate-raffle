@@ -35,15 +35,16 @@ Abra o arquivo __model.env__ e preencha os campos
 
 # Executando o programa
 Na raiz do diretório __alphabot__ abra o prompt de comando e digite uma das opções
+
 **Conta com premium**
-`npm run all-skip` Realiza os sorteios de escopo global pulando os requisitos
-`npm run all-extra` Realiza os sorteios de escopo global com os requisitos(+1 entrie)
-`npm run community-skip` Realiza os sorteios das comunidades que faz parte pulando os requisitos
-`npm run community-extra`Realiza os sorteios das comunidades que faz parte com os requisitos(+1 entrie)
+- `npm run all-skip` Realiza os sorteios de escopo global pulando os requisitos
+- `npm run all-extra` Realiza os sorteios de escopo global com os requisitos(+1 entrie)
+- `npm run community-skip` Realiza os sorteios das comunidades que faz parte pulando os requisitos
+- `npm run community-extra`Realiza os sorteios das comunidades que faz parte com os requisitos(+1 entrie)
 
 **Conta sem premium**
-`npm run all` Realiza os sorteios de escopo global
-`npm run community` Realiza sorteios das comunidades que faz parte
+- `npm run all` Realiza os sorteios de escopo global
+- `npm run community` Realiza sorteios das comunidades que faz parte
 
 
 ## Detalhes
