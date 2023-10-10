@@ -1,0 +1,22 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "all-skip": "node app.js all -premium=skip",
+    "all-extra": "node app.js all -premium=extra",
+    "community-skip": "node app.js community -premium=skip",
+    "community-extra": "node app.js community -premium=extra",
+    "all": "node app.js all",
+    "community": "node app.js community"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "ethers": "^6.7.1",
+    "puppeteer": "^21.1.0"
+  }
+}
