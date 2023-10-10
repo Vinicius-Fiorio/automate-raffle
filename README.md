@@ -14,7 +14,7 @@ Vá para o diretório raiz da pasta __alphabot__ e digite `npm i` na linha de co
 Abra o arquivo __discord-roles.js__ e digite dentro das *{}* os servidores e roles que possui(caso deixe vazio ele não irá se registrar em sorteios que possuem requisitos de discord mesmo que você esteja apto a participar).
 **Caso você tenha muitas roles em determinado servidor só é necessário colocar a de maior frequência nos sorteios**
 *Ex:* TDD tenho várias mas apenas é necessário colocar o id da role de Member ou Pintos(caso eu coloque apenas a de Member na hora de se registrar no sorteio se eu tiver a Pintos msm n colocando no arquivo será levado em consideração a Pintos resultando em uma entrada de 500x).
-![Configuracao de cargos](https://prnt.sc/NGrY2JarRs9y)
+[Configuracao de cargos](https://prnt.sc/NGrY2JarRs9y)
 
 O arquivo __addresses-hold.js__ serve para adicionar os endereços de contrato que você holda(Isso será necessário apenas para casos muito específicos, como ex: Ape list)
 
